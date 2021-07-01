@@ -37,6 +37,11 @@ the routes that car be tested for this app are as follows:
 * Put to update User and Thought by id
 * delete to delete User, Thought and Friend by ID as well as delete reaction from a thought
 
+## demonstration video
+
+for walk thru check the link below 
+https://drive.google.com/file/d/1UNhbHuz1NkbDgS_SiJrQvb_f1Crw8gvQ/view
+
 
 ## Usage 
 clone repo via SSH or HTTP and create new fork for any changes necessary
@@ -45,9 +50,6 @@ clone repo via SSH or HTTP and create new fork for any changes necessary
  ensure a pull request made before merging 
 
 
-## Tests
-to run program use command on commandline
-node index 
  
 ## Email Address
 andrew@andrew.com 
