@@ -1,5 +1,10 @@
 # Social-media-API
 
+## plese note 
+I had to open a fresh repo, ran into a irreconcileable merge issue in the original repo for this assignment 
+please refer to the follow link to see original repo and the commit log:
+https://github.com/fraudwheeldrive/Social-media-API
+
   
   ## Table of Contents
 
